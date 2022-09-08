@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francmousseau
-- 👀 I’m interested in Python programming and use of JUpyter Notebook 
+- 👀 I’m interested in Python programming and use of Jupyter Notebook 
 
 <!---
 francmousseau/francmousseau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
